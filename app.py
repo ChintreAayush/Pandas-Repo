@@ -2,7 +2,6 @@ print("This is my first Image")
 print("Hiiii")
 print("New line")
 print("another line")
-<<<<<<< HEAD
 print("undo 1")
 
 print("seocnd branch")
@@ -10,6 +9,7 @@ print("seocnd branch")
 
 
 
+print("seocnd branch..........................")
 print("seocnd branch")
 print("This is my first Image")
 print("Hiiii")
@@ -23,5 +23,3 @@ print("seocnd branch")
 
 
 print("seocnd branch")
-=======
->>>>>>> 7c6c7618008b95fef912ade72241b97d64310eb2
